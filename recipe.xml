@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<recipe name="PB&amp;J Sandwich">
+<food amt="2 slices">
+	<item directions="Lay separately on place; Smash together at end">Bread</item>
+	<pic>bread.jpg</pic>
+</food>
+<food amt="2 tsp">
+	<item directions="Spread on left piece of bread">Jelly</item>
+	<pic>jelly.jpg</pic>
+</food>
+<food amt="1 TBS">
+	<item directions="Spread on right piece of bread">Peanut Butter</item>
+	<pic>pb.jpg</pic>
+</food>
+</recipe>
